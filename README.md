@@ -30,12 +30,15 @@ The main objective of this exercise is to help Lending Club minimize credit loss
 2. Conversely, approving loans for applicants who are at risk of defaulting can lead to significant financial losses for the company.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Most of the borrowers taken loan amounts between 5500 - 15000, 99-95 percentile of loan amounts are below 30000
+- Most of the Funded amount is in between 5500 - 15000, 99-95 percentile of Funded amounts is below 30000
+- As loan rate increasing from 14.5 number of applications are decreasing.
+- Most of the borrowers intrest rates are between 9.25 to 14.59
+- Fully paid cutomers intrest rates are low with compare to defaulters.
+- If intrest rate is high then there is probabilty of default loan
+- Less salary borrowers are becoming defaulters and avg salary of charged off boorowes is less than fully paid borrowers
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 
 ## Technologies Used
