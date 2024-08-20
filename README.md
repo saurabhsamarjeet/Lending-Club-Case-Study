@@ -39,21 +39,20 @@ The main objective of this exercise is to help Lending Club minimize credit loss
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python - version 3.11.7
+Matplotlib - version 3.7
+Numpy - version 1.24
+Pandas - version 1.5
+Seaborn - version 0.12
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @saurabhsamarjeet
 
 
 <!-- Optional -->
