@@ -48,8 +48,8 @@ The main objective of this exercise is to help Lending Club minimize credit loss
 
 
 ## Acknowledgements
-This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
-UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
+- This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
 ## Contact
