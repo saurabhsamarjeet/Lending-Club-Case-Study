@@ -53,7 +53,7 @@ The main objective of this exercise is to help Lending Club minimize credit loss
 
 
 ## Contact
-Created by @saurabhsamarjeet
+Created by  [@saurabhsamarjeet](https://github.com/saurabhsamarjeet)
 
 
 <!-- Optional -->
