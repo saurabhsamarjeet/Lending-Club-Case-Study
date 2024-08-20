@@ -39,6 +39,7 @@ The main objective of this exercise is to help Lending Club minimize credit loss
 
 
 ## Technologies Used
+
 Python - version 3.11.7
 Matplotlib - version 3.7
 Numpy - version 1.24
